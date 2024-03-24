@@ -28,6 +28,7 @@ All of our content created for the hackathon can be accessed on [this Notion pag
 ## Where can I start reviewing this project?
 
 ### Data analysis
+You can check the [Power Bi report here](https://app.powerbi.com/view?r=eyJrIjoiZDE5MjI4NzAtZWZiMS00MmQ3LWJlMjMtY2Y1Y2RkODcyOTA3IiwidCI6ImI5M2Y0MDhjLWJmYjEtNGVmNC1iZDJkLTFiMGRkNmQwOGQyNSJ9)
 All of our data comes from data from [Google Cloud BigQuery Tezos](https://console.cloud.google.com/marketplace/product/public-data-finance/crypto-tezos-dataset). The data is retrieved using SQL and imported into Power BI graphs.
 All SQL scripts are available on the repository [data-analysis](https://github.com/FinChain-Analytics/data-analysis)
 
